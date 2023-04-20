@@ -130,11 +130,11 @@ const Footer = () => {
         </ContactItem>
         <ContactItem>
           <Phone style={{marginRight:"10px"}}/>
-          7386096969
+          8210323538
         </ContactItem>
         <ContactItem>
           <MailOutline style={{marginRight:"10px"}}/>
-          vamshi@gmail.com
+          chirag@gmail.com
         </ContactItem>
         <Payment src="https://i.ibb.co/Qfvn4z6/payment.png" />
       </Right>
